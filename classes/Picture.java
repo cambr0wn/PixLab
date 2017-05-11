@@ -302,7 +302,7 @@ public class Picture extends SimplePicture
       // loop through the rows
       for (int row = 230; row < 321; row++)
       {
-          // loop from 13 to just before the mirror point 
+          // loop from 13 to just before the mirror point
           for (int col = mirrorPoint; col < 352; col++)
           {
 
