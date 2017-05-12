@@ -13,7 +13,10 @@ import java.util.List; // resolves problem with java.awt.List and java.util.List
  * 
  * @author Barbara Ericson ericson@cc.gatech.edu
  */
-public class Picture extends SimplePicture 
+
+// tester comment
+
+public class Picture extends SimplePicture
 {
   ///////////////////// constructors //////////////////////////////////
   
